@@ -52,7 +52,7 @@ xosoApp.controller('playXsCtrl', function($scope, $interval) {
                         }
                     }
                 }
-                console.log($scope.loto);
+                //console.log($scope.loto);
 
                 $scope.quayText = 'Dừng!';
             }, 50);
