@@ -2,7 +2,6 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Tools extends CI_Controller {
-
     public function index(){
         $this->thongKe();
     }
@@ -18,7 +17,7 @@ class Tools extends CI_Controller {
         $this->load->view('wrapper', $data);
     }
 
-    public function quayThu(){
+    public function playXs(){
 
     }
 }
