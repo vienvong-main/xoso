@@ -23,10 +23,16 @@ class Tools extends CI_Controller {
 
         switch($zone){
             case 'mb':
+                $this->data['region'] = 'mb';
                 break;
             case 'mt':
+                $this->data['region'] = 'mt';
                 break;
             case 'mn':
+                $this->data['region'] = 'mn';
+                break;
+            default:
+                $this->data['region'] = 'mb';
                 break;
         }
 
