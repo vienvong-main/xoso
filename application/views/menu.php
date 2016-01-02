@@ -15,32 +15,41 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li id="navbar_today" class="active">
+                    <li class="active">
                         <a href="/hom-nay">Hôm nay </a>
                     </li>
-                    <li id="navbar_sokq" class="">
+                    <li class="">
                         <a href="/sokq">Sổ KQ</a>
                     </li>
-                    <li id="navbar_quaythu" class="">
+
+                    <li class="">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                            aria-haspopup="true" aria-expanded="true">Tiện ích <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/tien-ich/thong-ke">Thống kê</a></li>
-                            <li><a href="/tien-ich/quay-thu">Quay thử</a></li>
-                            <li><a href="/tien-ich/lich-mo-thuong">Lịch mở thưởng</a></li>
+                            <li><a href="/tien-ich/thong-ke">Thống Kê</a></li>
+
+                            <li><a href="/tien-ich/lich-mo-thuong">Lịch Mở Thưởng</a></li>
+                            <li class="divider"></li>
+                            <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Quay thử</a>
+                                <ul class="dropdown-menu">
+                                    <li><a href="/tien-ich/quay-thu/mb">Miền Bắc</a></li>
+                                    <li><a href="/tien-ich/quay-thu/mt">Miền Trung</a></li>
+                                    <li><a href="/tien-ich/quay-thu/mn">Miền Nam</a></li>
+                                </ul>
+                            </li>
                         </ul>
                     </li>
 
-                    <li id="navbar_xsmb" class="">
+                    <li class="">
                         <a href="/xsmb">XSMB</a>
                     </li>
-                    <li id="navbar_xsmt" class="">
+                    <li class="">
                         <a href="/xsmt">XSMT</a>
                     </li>
-                    <li id="navbar_xsmn" class="">
+                    <li class="">
                         <a href="/xsmn">XSMN</a>
                     </li>
-                    <li id="navbar_xsmn" class="">
+                    <li class="">
                         <a href="/xsmn">Bóng đá</a>
                     </li>
                 </ul>
