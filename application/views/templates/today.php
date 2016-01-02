@@ -506,6 +506,7 @@
                                 </table>
 
                             </div>
+
                             <div class="col-sm-3 col-xs-12">
                                 <table class="table table-bordered">
                                     <thead>
