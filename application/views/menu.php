@@ -27,10 +27,8 @@
                            aria-haspopup="true" aria-expanded="true">Tiện ích <span class="caret"></span></a>
                         <ul class="dropdown-menu">
                             <li><a href="/tien-ich/thong-ke">Thống Kê</a></li>
-
-                            <li><a href="/tien-ich/lich-mo-thuong">Lịch Mở Thưởng</a></li>
-                            <li class="divider"></li>
-                            <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Quay thử</a>
+                            <li><a href="/tien-ich/lich-xs">Lịch XS</a></li>
+                            <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Quay Thử</a>
                                 <ul class="dropdown-menu">
                                     <li><a href="/tien-ich/quay-thu/mb">Miền Bắc</a></li>
                                     <li><a href="/tien-ich/quay-thu/mt">Miền Trung</a></li>
