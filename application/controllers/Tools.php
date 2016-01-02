@@ -2,6 +2,8 @@
 defined('BASEPATH') OR exit('No direct script access allowed');
 
 class Tools extends CI_Controller {
+    private $data = array();
+
     public function index(){
         $this->thongKe();
     }
@@ -11,13 +13,24 @@ class Tools extends CI_Controller {
     }
 
     public function calender(){
-        $data = array();
+        $this->data = array();
 
-        $data['content_view'] = 'tools/calender';
-        $this->load->view('wrapper', $data);
+        $this->data['content_view'] = 'tools/calender';
+        $this->load->view('wrapper', $this->data);
     }
 
-    public function playXs(){
+    public function playXs($zone){
 
+        switch($zone){
+            case 'mb':
+                break;
+            case 'mt':
+                break;
+            case 'mn':
+                break;
+        }
+
+        $this->data['content_view'] = 'tools/playXs';
+        $this->load->view('wrapper', $this->data);
     }
 }

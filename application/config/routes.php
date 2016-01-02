@@ -55,7 +55,7 @@ $route['hom-nay'] = 'today';
 
 $route['tien-ich'] = 'tools';
 $route['tien-ich/thong-ke'] = 'tools';
-$route['tien-ich/quay-thu'] = 'tools/playXs';
+$route['tien-ich/quay-thu/(:any)'] = 'tools/playXs/$1';
 $route['tien-ich/lich-mo-thuong'] = 'tools/calender';
 
 $route['404_override'] = '';
