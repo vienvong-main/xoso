@@ -16,7 +16,7 @@
             <div id="navbar" class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
                     <li id="navbar_today" class="active">
-                        <a href="/today">Hôm nay </a>
+                        <a href="/hom-nay">Hôm nay </a>
                     </li>
                     <li id="navbar_sokq" class="">
                         <a href="/sokq">Sổ KQ</a>
@@ -25,8 +25,9 @@
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                            aria-haspopup="true" aria-expanded="true">Tiện ích <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/quaythu?region=mb">Thống kê</a></li>
-                            <li><a href="/quaythu?region=mt">Quay thử</a></li>
+                            <li><a href="/tien-ich/thong-ke">Thống kê</a></li>
+                            <li><a href="/tien-ich/quay-thu">Quay thử</a></li>
+                            <li><a href="/tien-ich/lich-mo-thuong">Lịch mở thưởng</a></li>
                         </ul>
                     </li>
 
