@@ -27,5 +27,6 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="/assets/js/angular.min.js"></script>
     <script src="/assets/js/xoso.js"></script>
     <script src="/assets/js/templates/today.js"></script>
+    <script src="/assets/js/templates/tools/calender.js"></script>
 </body>
 </html>

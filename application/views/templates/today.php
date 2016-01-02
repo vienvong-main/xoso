@@ -28,8 +28,7 @@
                                 <table class="table table-bordered">
                                     <tr>
                                         <td class='prize-text' rowspan="1">Đặc Biệt</td>
-                                        <td class=specialPrize class='pz'
-                                            colspan="12">52552 </td>
+                                        <td class=specialPrize class='pz'colspan="12">52552 </td>
                                     </tr>
 
                                     <tr>

@@ -52,7 +52,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 $route['default_controller'] = 'today';
 
 $route['hom-nay'] = 'today';
+
 $route['tien-ich'] = 'tools';
+$route['tien-ich/thong-ke'] = 'tools';
+$route['tien-ich/quay-thu'] = 'tools';
 $route['tien-ich/lich-mo-thuong'] = 'tools/calender';
 
 $route['404_override'] = '';
