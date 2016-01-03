@@ -18,6 +18,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <?php $this->load->view('menu');?>
 
+    <a class="back-to-top" href="#">
+        <img src="/assets/img/jumptop.png" alt="Back to Top"/>
+    </a>
+
     <?php $this->load->view('templates/' . $content_view);?>
 
     <?php $this->load->view('footer');?>
@@ -25,21 +29,10 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="/assets/js/jquery-2.1.4.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
     <script src="/assets/js/angular.min.js"></script>
+    <script src="/assets/js/main.js"></script>
     <script src="/assets/js/xoso.js"></script>
     <script src="/assets/js/templates/today.js"></script>
     <script src="/assets/js/templates/tools/calender.js"></script>
     <script src="/assets/js/templates/tools/playXs.js"></script>
-    <script type="text/javascript">
-        (function($){
-            $(document).ready(function(){
-                $('ul.dropdown-menu [data-toggle=dropdown]').on('click', function(event) {
-                    event.preventDefault();
-                    event.stopPropagation();
-                    $(this).parent().siblings().removeClass('open');
-                    $(this).parent().toggleClass('open');
-                });
-            });
-        })(jQuery);
-    </script>
 </body>
 </html>
