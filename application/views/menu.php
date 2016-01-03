@@ -15,11 +15,11 @@
             </div>
             <div id="navbar" class="collapse navbar-collapse navbar-right">
                 <ul class="nav navbar-nav">
-                    <li class="active">
+                    <li class="<?php if($this->uri->segment(1) == "hom-nay" || $this->uri->segment(1) == "") echo "active";?>">
                         <a href="/hom-nay">Hôm nay </a>
                     </li>
 
-                    <li class="">
+                    <li class="<?php if($this->uri->segment(1) == "tien-ich") echo "active";?>">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                            aria-haspopup="true" aria-expanded="true">Tiện ích <span class="caret"></span></a>
                         <ul class="dropdown-menu">
