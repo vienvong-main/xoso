@@ -37,18 +37,8 @@
                             </li>
                         </ul>
                     </li>
-
                     <li class="">
-                        <a href="/xsmb">XSMB</a>
-                    </li>
-                    <li class="">
-                        <a href="/xsmt">XSMT</a>
-                    </li>
-                    <li class="">
-                        <a href="/xsmn">XSMN</a>
-                    </li>
-                    <li class="">
-                        <a href="/xsmn">Bóng đá</a>
+                        <a href="/xsmn">KQ Bóng đá</a>
                     </li>
                 </ul>
             </div>
