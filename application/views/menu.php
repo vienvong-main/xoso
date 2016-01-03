@@ -18,17 +18,13 @@
                     <li class="active">
                         <a href="/hom-nay">Hôm nay </a>
                     </li>
-                    <li class="">
-                        <a href="/sokq">Sổ KQ</a>
-                    </li>
 
                     <li class="">
                         <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
                            aria-haspopup="true" aria-expanded="true">Tiện ích <span class="caret"></span></a>
                         <ul class="dropdown-menu">
-                            <li><a href="/tien-ich/thong-ke">Thống Kê</a></li>
                             <li><a href="/tien-ich/lich-xs">Lịch XS</a></li>
-                            <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Quay Thử</a>
+                            <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Quay Thử XS</a>
                                 <ul class="dropdown-menu">
                                     <li><a href="/tien-ich/quay-thu/mb">Miền Bắc</a></li>
                                     <li><a href="/tien-ich/quay-thu/mt">Miền Trung</a></li>
@@ -37,6 +33,15 @@
                             </li>
                         </ul>
                     </li>
+
+                    <li class="">
+                        <a href="/sokq">Sổ KQ</a>
+                    </li>
+
+                    <li>
+                        <a href="/tien-ich/thong-ke">Thống Kê</a>
+                    </li>
+
                     <li class="">
                         <a href="/xsmn">KQ Bóng đá</a>
                     </li>
