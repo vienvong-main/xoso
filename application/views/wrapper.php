@@ -35,6 +35,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <script src="/assets/js/main.js"></script>
     <script src="/assets/js/xoso.js"></script>
     <script src="/assets/js/templates/today.js"></script>
+    <script src="/assets/js/templates/result.js"></script>
     <script src="/assets/js/templates/tools/calender.js"></script>
     <script src="/assets/js/templates/tools/playXs.js"></script>
 </body>

@@ -1,4 +1,4 @@
-<div class="container">
+<div class="container" ng-controller="resultCtrl" ng-init="init()">
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h1 class="panel-title">
@@ -11,8 +11,11 @@
             <div class="text-info h3">7 Ngày Kết Quả</div>
             <span class="input-group col-md-4 col-sm-4 col-xs-12">
                 <span class="input-group-addon"><i class="glyphicon glyphicon-map-marker"></i></span>
-                <select id="select-area" class="form-control">
-                    <option value="" disabled="" selected="">Chọn khu vực</option>
+                <select
+                    id="select-area"
+                    class="form-control"
+                    ng-model="region">
+                    <option value="" disabled="">Chọn khu vực</option>
                     <option value="mb">Miền Bắc</option>
                     <option value="mn">Miền Nam</option>
                     <option value="mt">Miền Trung</option>
@@ -57,11 +60,15 @@
 
             <span class="input-group date col-md-4 col-sm-4 col-xs-12">
                 <span class="input-group-addon"><i class="glyphicon glyphicon-calendar"></i></span>
-                <input id="date-area" type="text" class="form-control" value="">
+                <input
+                    id="date-area"
+                    type="text"
+                    class="form-control"
+                    ng-model="date">
             </span>
 
             <br/>
-            <button id="sokq-xem" class="btn btn-primary">Xem!</button>
+            <button id="sokq-xem" class="btn btn-primary" ng-click="search()">Xem!</button>
         </div>
     </div>
 </div>
