@@ -34,7 +34,7 @@
                         </ul>
                     </li>
 
-                    <li class="">
+                    <li class="<?php if($this->uri->segment(1) == "sokq") echo "active";?>">
                         <a href="/sokq">Sổ KQ</a>
                     </li>
 

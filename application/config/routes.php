@@ -53,6 +53,8 @@ $route['default_controller'] = 'today';
 
 $route['hom-nay'] = 'today';
 
+$route['sokq'] = 'result';
+
 $route['tien-ich'] = 'tools';
 $route['tien-ich/thong-ke'] = 'tools';
 $route['tien-ich/quay-thu/(:any)'] = 'tools/playXs/$1';

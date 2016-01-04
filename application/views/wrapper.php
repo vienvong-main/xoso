@@ -6,6 +6,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <meta charset="utf-8">
     <link rel="stylesheet" href="/assets/css/bootstrap.min.css"/>
     <link rel="stylesheet" href="/assets/css/bootstrap-theme.min.css"/>
+    <link rel="stylesheet" href="/assets/css/bootstrap-datepicker.standalone.min.css"/>
     <link rel="stylesheet" href="/assets/css/main.css"/>
     <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=vietnamese,latin,latin-ext">
     <title>Xổ số</title>
@@ -28,6 +29,8 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 
     <script src="/assets/js/jquery-2.1.4.min.js"></script>
     <script src="/assets/js/bootstrap.min.js"></script>
+    <script src="/assets/js/bootstrap-datepicker.min.js"></script>
+    <script src="/assets/js/bootstrap-datepicker.vi.min.js"></script>
     <script src="/assets/js/angular.min.js"></script>
     <script src="/assets/js/main.js"></script>
     <script src="/assets/js/xoso.js"></script>

@@ -21,4 +21,13 @@ $(document).ready(function(){
         $('html, body').animate({scrollTop: 0}, duration);
         return false;
     });
+
+    $("#date-area").datepicker({
+        format: "dd/mm/yyyy",
+        language: 'vi',
+        endDate: '+0d',
+        todayBtn: 'linked',
+        autoclose: true
+    });
+
 });
