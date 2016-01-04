@@ -53,6 +53,8 @@ $route['default_controller'] = 'today';
 
 $route['hom-nay'] = 'today';
 
+$route['ket-qua-bong-da'] = 'score';
+
 $route['sokq'] = 'result';
 
 $route['tien-ich'] = 'tools';

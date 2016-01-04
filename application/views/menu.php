@@ -42,8 +42,8 @@
                         <a href="/tien-ich/thong-ke">Thống Kê</a>
                     </li>
 
-                    <li class="">
-                        <a href="/xsmn">KQ Bóng đá</a>
+                    <li class="<?php if($this->uri->segment(1) == "ket-qua-bong-da") echo "active";?>">
+                        <a href="/ket-qua-bong-da">KQ Bóng đá</a>
                     </li>
                 </ul>
             </div>
