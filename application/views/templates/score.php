@@ -8,6 +8,11 @@
         </div>
 
         <div class="panel-body">
+            <div style="width:100%;background-color:#333" align="center">
+                <a href="<?php echo current_url();;?>">
+                    <i class="glyphicon glyphicon-menu-left"></i>
+                </a>
+            </div>
             <div style="height:1500px;overflow:hidden;" id="score-container">
                 <div style="visibility:visible;margin-top:-76px;display:block;">
                     <iframe src="<?php echo $link_score;?>" width="100%" height="1500" frameborder="0" marginheight="0" marginwidth="0" scrolling="yes" id="livescoreif"></iframe>
