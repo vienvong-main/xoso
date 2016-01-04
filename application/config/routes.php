@@ -53,9 +53,10 @@ $route['default_controller'] = 'today';
 
 $route['hom-nay'] = 'today';
 
-$route['ket-qua-bong-da'] = 'score';
-
 $route['sokq'] = 'result';
+
+$route['ket-qua-bong-da'] = 'score';
+$route['ket-qua-bong-da/(:any)'] = 'score/index/$1';
 
 $route['tien-ich'] = 'tools';
 $route['tien-ich/thong-ke'] = 'tools';

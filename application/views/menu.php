@@ -43,7 +43,16 @@
                     </li>
 
                     <li class="<?php if($this->uri->segment(1) == "ket-qua-bong-da") echo "active";?>">
-                        <a href="/ket-qua-bong-da">KQ Bóng đá</a>
+                        <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button"
+                           aria-haspopup="true" aria-expanded="true">KQ Bóng đá <span class="caret"></span></a>
+                        <ul class="dropdown-menu">
+                            <li><a href="/ket-qua-bong-da">Bóng đá</a></li>
+                            <li><a href="/ket-qua-bong-da/anh">Bóng đá Anh</a></li>
+                            <li><a href="/ket-qua-bong-da/y">Bóng đá Ý</a></li>
+                            <li><a href="/ket-qua-bong-da/tbn">Bóng đá TBN</a></li>
+                            <li><a href="/ket-qua-bong-da/ca">Bóng đá Châu Âu</a></li>
+                            <li><a href="/ket-qua-bong-da/duc">Bóng đá Đức</a></li>
+                            <li><a href="/ket-qua-bong-da/phap">Bóng đá Pháp</a></li>
                     </li>
                 </ul>
             </div>
