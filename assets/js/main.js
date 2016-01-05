@@ -29,5 +29,4 @@ $(document).ready(function(){
         todayBtn: 'linked',
         autoclose: true
     });
-
 });

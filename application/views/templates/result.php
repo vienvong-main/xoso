@@ -14,7 +14,7 @@
                 <select
                     id="select-area"
                     class="form-control"
-                    ng-model="region">
+                    ng-model="state">
                     <option value="" disabled="">Chọn khu vực</option>
                     <option value="mb">Miền Bắc</option>
                     <option value="mn">Miền Nam</option>

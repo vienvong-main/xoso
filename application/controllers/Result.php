@@ -6,6 +6,6 @@ class Result extends CI_Controller {
 
     public function index(){
         $this->data['content_view'] = 'result';
-        $this->load->view('wrapper', $this->data);
+        $this->load->view('wrapper', $this ->data);
     }
 }
