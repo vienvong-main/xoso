@@ -2,7 +2,7 @@
     <!-- Mien Bac -->
     <div class="panel panel-primary">
         <div class="panel-heading">
-            <h1 class="panel-title"><a href="/xsmb">KQXS Miền Bắc</a></h1>
+            <h1 class="panel-title"><a href="/xsmb">XỔ SỐ THỦ ĐÔ</a></h1>
         </div>
 
 
@@ -10,195 +10,201 @@
             <div class="tableResult">
                 <div class="resultFull">
                     <div class="panel-body">
-
-                        <div class="result-info resultDateHeader">
-                            <i class='glyphicon glyphicon-calendar'></i>
-                            <span class='text-capitalize'>Thứ Sáu, 1/1/2016</span>
-                        </div>
-
-                        <div class="result-info resultCityHeader">
-                            <i class="glyphicon glyphicon-map-marker"></i>
-                            <span class='text-capitalize'>hải phòng</span>
-                        </div>
-
-
-                        <div class="row">
-                            <div class="col-sm-9 col-xs-12 col-no-padding">
-
-                                <table class="table table-bordered">
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Đặc Biệt</td>
-                                        <td class=specialPrize class='pz'colspan="12">52552 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Giải Nhất</td>
-                                        <td  class='pz' colspan="12">56247 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Giải Nhì</td>
-                                        <td  class='pz'
-                                             colspan="6">84402 </td>
-                                        <td  class='pz'
-                                             colspan="6">15788 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="2">Giải Ba</td>
-                                        <td class='pz' colspan="4">06060</td>
-                                        <td class='pz' colspan="4">22520</td>
-                                        <td class='pz' colspan="4">39216</td>
-
-                                    </tr>
-                                    <tr>
-                                        <td class='pz' colspan="4">26435 </td>
-                                        <td class='pz' colspan="4">51168 </td>
-                                        <td class='pz' colspan="4">06334 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Giải Tư</td>
-                                        <td class='pz' colspan="3">9032 </td>
-                                        <td class='pz' colspan="3">2187 </td>
-                                        <td class='pz' colspan="3">5037 </td>
-                                        <td class='pz' colspan="3">1935 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="2">Giải Năm</td>
-                                        <td class='pz' colspan="4">5704</td>
-                                        <td class='pz' colspan="4">9718</td>
-                                        <td class='pz' colspan="4">1378</td>
-                                    </tr>
-                                    <tr>
-                                        <td class='pz' colspan="4">8009 </td>
-                                        <td class='pz' colspan="4">0896 </td>
-                                        <td class='pz' colspan="4">7197 </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Giải Sáu</td>
-                                        <td  class='pz' colspan="4">488 </td>
-                                        <td  class='pz' colspan="4">376 </td>
-                                        <td  class='pz' colspan="4">768 </td>
-
-
-                                    </tr>
-
-                                    <tr>
-                                        <td class='prize-text' rowspan="1">Giải Bảy</td>
-                                        <td  class='pz'
-                                             colspan="3">78 </td>
-                                        <td  class='pz'
-                                             colspan="3">72 </td>
-                                        <td  class='pz'
-                                             colspan="3">17 </td>
-                                        <td  class='pz'
-                                             colspan="3">16 </td>
-                                    </tr>
-
-                                </table>
-
+                            <div class="row">
+                            <div class="col-sm-3" style="background: black">QC</div>
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <table der="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+                                        <thead>
+                                        <tr>
+                                            <th class="" colspan="13"><h2>Mở thưởng thứ ba ngày 05/01/2016</h2>
+                                            </th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td class="   "><h3>Đặc Biệt</h3></td>
+                                            <td class=" " colspan="12">89851</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  "><h3>Giải Nhất</h3></td>
+                                            <td class="" colspan="12">25333</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  "><h3>Giải Nhì</h3></td>
+                                            <td class=" " colspan="6">51792</td>
+                                            <td class="" colspan="6">04401</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  " rowspan="2"><h3>Giải Ba</h3></td>
+                                            <td class=" " colspan="4">83906</td>
+                                            <td class=" " colspan="4">75998</td>
+                                            <td class="" colspan="4">35491</td></tr>
+                                        <tr><td class=" " colspan="4">08039</td>
+                                            <td class=" " colspan="4">08401</td>
+                                            <td class="" colspan="4">03436</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  "><h3>Giải Tư</h3></td>
+                                            <td class=" " colspan="3">2772</td>
+                                            <td class=" " colspan="3">0537</td>
+                                            <td class=" " colspan="3">7225</td>
+                                            <td class="" colspan="3">4696</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  " rowspan="2"><h3>Giải Năm</h3></td>
+                                            <td class=" " colspan="4">6786</td>
+                                            <td class=" " colspan="4">7671</td>
+                                            <td class="" colspan="4">3455</td></tr>
+                                        <tr><td class=" " colspan="4">4982</td>
+                                            <td class=" " colspan="4">1960</td>
+                                            <td class="" colspan="4">7282</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  "><h3>Giải Sáu</h3></td>
+                                            <td class=" " colspan="4">285</td>
+                                            <td class=" " colspan="4">281</td>
+                                            <td class="" colspan="4">951</td>
+                                        </tr>
+                                        <tr>
+                                            <td class="  "><h3>Giải Bảy</h3></td>
+                                            <td class=" " colspan="3">15</td>
+                                            <td class=" " colspan="3">28</td>
+                                            <td class=" " colspan="3">49</td>
+                                            <td class="" colspan="3">26</td>
+                                        </tr>
+                                        <!--
+                                        <tr>
+                                              <th class=" " colspan="13">Nhận KQXS <span class="sred">Thủ Đô</span> : Soạn <span class="sred">KQTD</span> gửi <span class="sred">8185</span></th>
+                                        </tr>-->
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="row" style="background: black">QC</div>
+                                <div class="row">
+                                    <table border="0" cellspacing="0" cellpadding="0" style="width: 100%">
+                                        <thead>
+                                        <tr>
+                                            <th class="bor f1" colspan="9"><h2><span class="sred">LôTô trực tiếp</span></h2></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr>
+                                            <td class="bol f1b" colspan="1">01</td><td class="bol f1b" colspan="1">01</td><td class="bol f1b" colspan="1">06</td><td class="bol f1b" colspan="1">15</td><td class="bol f1b" colspan="1">25</td><td class="bol f1b" colspan="1">26</td><td class="bol f1b" colspan="1">28</td><td class="bol f1b" colspan="1">33</td><td class="bor f1b" colspan="1">36</td></tr><tr><td class="bol f1b" colspan="1">37</td><td class="bol f1b" colspan="1">39</td><td class="bol f1b" colspan="1">49</td><td class="bol f1b" colspan="1"><span class="sred">51</span></td><td class="bol f1b" colspan="1">51</td><td class="bol f1b" colspan="1">55</td><td class="bol f1b" colspan="1">60</td><td class="bol f1b" colspan="1">71</td><td class="bor f1b" colspan="1">72</td></tr><tr><td class="bol f1b" colspan="1">81</td><td class="bol f1b" colspan="1">82</td><td class="bol f1b" colspan="1">82</td><td class="bol f1b" colspan="1">85</td><td class="bol f1b" colspan="1">86</td><td class="bol f1b" colspan="1">91</td><td class="bol f1b" colspan="1">92</td><td class="bol f1b" colspan="1">96</td><td class="bor f1b" colspan="1">98</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                                <div class="row" style="background: black">QC</div>
+                                <div class="row">
+                                    <div class="col-sm-6">
+                                        <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                            <thead>
+                                            <tr>
+                                                <th class="bol f1 tt1"><h2>Đầu</h2></th>
+                                                <th class="bor f1 tt2"><h2>LôTô</h2></th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">0</td>
+                                                <td class="bor tt2 f1b tleft">01; 01; 06</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">1</td>
+                                                <td class="bor tt2 f1b tleft">15</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">2</td>
+                                                <td class="bor tt2 f1b tleft">25; 26; 28</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">3</td>
+                                                <td class="bor tt2 f1b tleft">33; 36; 37; 39</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">4</td>
+                                                <td class="bor tt2 f1b tleft">49</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">5</td>
+                                                <td class="bor tt2 f1b tleft"><span class="sred">51</span>; 51; 55</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">6</td>
+                                                <td class="bor tt2 f1b tleft">60</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">7</td>
+                                                <td class="bor tt2 f1b tleft">71; 72</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">8</td>
+                                                <td class="bor tt2 f1b tleft">81; 82; 82; 85; 86</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">9</td>
+                                                <td class="bor tt2 f1b tleft">91; 92; 96; 98</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                    <div class="col-sm-6">
+                                        <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                            <thead>
+                                            <tr>
+                                                <th class="bol f1 tt1"><h2>Đít</h2></th>
+                                                <th class="bor f1 tt2"><h2>LôTô</h2></th>
+                                            </tr>
+                                            </thead>
+                                            <tbody>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">0</td>
+                                                <td class="bor tt2 f1b tleft">60</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">1</td>
+                                                <td class="bor tt2 f1b tleft">01; 01; <span class="sred">51</span>; 51; 71; 81; 91</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">2</td>
+                                                <td class="bor tt2 f1b tleft">72; 82; 82; 92</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">3</td>
+                                                <td class="bor tt2 f1b tleft">33</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">4</td>
+                                                <td class="bor tt2 f1b tleft"></td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">5</td>
+                                                <td class="bor tt2 f1b tleft">15; 25; 55; 85</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">6</td>
+                                                <td class="bor tt2 f1b tleft">06; 26; 36; 86; 96</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">7</td>
+                                                <td class="bor tt2 f1b tleft">37</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">8</td>
+                                                <td class="bor tt2 f1b tleft">28; 98</td>
+                                            </tr>
+                                            <tr>
+                                                <td class="bol tt1 f1b db">9</td>
+                                                <td class="bor tt2 f1b tleft">39; 49</td>
+                                            </tr>
+                                            </tbody>
+                                        </table>
+                                    </div>
+                                </div>
                             </div>
-                            <div class="col-sm-3 col-xs-12">
-                                <table class="table table-bordered">
-                                    <thead>
-                                    <th>Đầu</th>
-                                    <th>Đuôi</th>
-                                    </thead>
-                                    <tbody>
-                                    <tr>
-                                        <td class="head">0</td>
-                                        <td>
-                                            2
-                                            4
-                                            9
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">1</td>
-                                        <td>
-                                            6
-                                            8
-                                            7
-                                            6
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">2</td>
-                                        <td>
-                                            0
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">3</td>
-                                        <td>
-                                            5
-                                            4
-                                            2
-                                            7
-                                            5
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">4</td>
-                                        <td>
-                                            7
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">5</td>
-                                        <td>
-                                            <span class="special-number">2</span>
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">6</td>
-                                        <td>
-                                            0
-                                            8
-                                            8
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">7</td>
-                                        <td>
-                                            8
-                                            6
-                                            8
-                                            2
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">8</td>
-                                        <td>
-                                            8
-                                            7
-                                            8
-                                        </td>
-                                    </tr>
-
-                                    <tr>
-                                        <td class="head">9</td>
-                                        <td>
-                                            6
-                                            7
-                                        </td>
-                                    </tr>
-
-                                    </tbody>
-                                </table>
-                            </div>
+                            <div class="col-sm-3 container" style="background: black">QC</div>
                         </div>
+                        <div class="row" style="background: black">QC</div>
                     </div>
                 </div>
             </div>
@@ -225,7 +231,7 @@
 
                         <div class="row">
                             <div class="col-md-8 col-sm-7 col-xs-12">
-                                <table class="table table-bordered resultFull table-resizable-text">
+                                <table class="table table-dered resultFull table-resizable-text">
                                     <thead>
                                     <tr><th style="width: 20%">Giải</th>
 
@@ -485,7 +491,7 @@
                                 </table>
                             </div>
                             <div class="col-md-4 col-sm-5 col-xs-12">
-                                <table class="table table-bordered">
+                                <table class="table table-dered">
                                     <thead>
                                     <tr><th>Đầu</th>
 
@@ -719,7 +725,7 @@
                         <div class="row">
 
                             <div class="col-md-8 col-sm-7 col-xs-12">
-                                <table class="table table-bordered resultFull table-resizable-text">
+                                <table class="table table-dered resultFull table-resizable-text">
                                     <thead>
                                     <tr><th style="width: 20%">Giải</th>
 
@@ -1072,7 +1078,7 @@
                             </div>
 
                             <div class="col-md-4 col-sm-5 col-xs-12">
-                                <table class="table table-bordered">
+                                <table class="table table-dered">
                                     <thead>
                                     <tr><th>Đầu</th>
 
