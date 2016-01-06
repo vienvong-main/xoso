@@ -1,4 +1,8 @@
 <div class="container">
+    <div class="container-fluid">
+        <a id="logo-text" class="navbar-brand" href="/">Ketquaxs24h</a>
+        <span id="logo-text-sub" class="navbar-brand">.com</span>
+    </div>
     <nav class="navbar navbar-static-top navbar-inverse">
         <div class="container-fluid">
             <div class="navbar-header">
@@ -10,10 +14,8 @@
                     <span class="icon-bar"></span>
                     <span class="icon-bar"></span>
                 </button>
-                <a id="logo-text" class="navbar-brand" href="/">Ketquaxs24h</a>
-                <span id="logo-text-sub" class="navbar-brand">.com</span>
             </div>
-            <div id="navbar" class="collapse navbar-collapse navbar-right">
+            <div id="navbar" class="collapse navbar-collapse navbar-left">
                 <ul class="nav navbar-nav">
                     <li class="<?php if($this->uri->segment(1) == "hom-nay" || $this->uri->segment(1) == "") echo "active";?>">
                         <a href="/hom-nay">Hôm nay </a>
