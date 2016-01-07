@@ -9,7 +9,7 @@
             <div class="tableResult">
                 <div class="resultFull">
                     <div class="panel-body">
-                            <div class="row">
+                        <div class="row">
                             <div class="col-sm-3" style="background: black">QC</div>
                             <div class="col-sm-6">
                                 <div class="row">
@@ -207,13 +207,72 @@
                     </div>
                 </div>
             </div>
-
         </div>
     </div>
 
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h1 class="panel-title"><a href="/xsmb">XỔ SỐ ĐIỆN TOÁN 123</a></h1>
+        </div>
+
+        <div id="mb-result">
+            <div class="tableResult">
+                <div class="resultFull">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-sm-3"></div>
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                        <thead>
+                                        <tr>
+                                            <th class="bor f2" colspan="3"><h2>Mở thưởng thứ tư ngày 06/01/2016</h2></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr><td class="bol f2 db">0</td><td class="bol f2 db">68</td><td class="bor f2 db">102</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-sm-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h1 class="panel-title"><a href="/xsmb">XỔ SỐ THẦN TÀI </a></h1>
+        </div>
+
+        <div id="mb-result">
+            <div class="tableResult">
+                <div class="resultFull">
+                    <div class="panel-body">
+                        <div class="row">
+                            <div class="col-sm-3"></div>
+                            <div class="col-sm-6">
+                                <div class="row">
+                                    <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                        <thead>
+                                        <tr>
+                                            <th class="bor f2" colspan="1"><h2>Mở thưởng thứ tư ngày 06/01/2016</h2></th>
+                                        </tr>
+                                        </thead>
+                                        <tbody>
+                                        <tr><td class="bor f2 db">6190</td></tr>
+                                        </tbody>
+                                    </table>
+                                </div>
+                            </div>
+                            <div class="col-sm-3"></div>
+                        </div>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
 
