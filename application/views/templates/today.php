@@ -10,81 +10,78 @@
                 <div class="resultFull">
                     <div class="panel-body">
                         <div class="row">
-                            <div class="col-sm-3" style="background: black">QC</div>
+                            <div class="col-sm-3 ad-box"></div>
                             <div class="col-sm-6">
                                 <div class="row">
-                                    <table der="0" cellspacing="0" cellpadding="0" style="width: 100%;">
+                                    <table class="table table-dered resultFull table-resizable-text">
                                         <thead>
                                         <tr>
-                                            <th class="" colspan="13"><h2>Mở thưởng thứ ba ngày 05/01/2016</h2>
-                                            </th>
+                                            <th colspan="13">Mở thưởng thứ ba ngày 05/01/2016</th>
                                         </tr>
                                         </thead>
                                         <tbody>
                                         <tr>
-                                            <td class="   "><h3>Đặc Biệt</h3></td>
-                                            <td class=" " colspan="12">89851</td>
+                                            <td>Đặc Biệt</td>
+                                            <td colspan="12">89851</td>
                                         </tr>
                                         <tr>
-                                            <td class="  "><h3>Giải Nhất</h3></td>
-                                            <td class="" colspan="12">25333</td>
+                                            <td>Giải Nhất</td>
+                                            <td colspan="12">25333</td>
                                         </tr>
                                         <tr>
-                                            <td class="  "><h3>Giải Nhì</h3></td>
-                                            <td class=" " colspan="6">51792</td>
-                                            <td class="" colspan="6">04401</td>
+                                            <td >Giải Nhì</td>
+                                            <td colspan="6">51792</td>
+                                            <td colspan="6">04401</td>
                                         </tr>
                                         <tr>
-                                            <td class="  " rowspan="2"><h3>Giải Ba</h3></td>
-                                            <td class=" " colspan="4">83906</td>
-                                            <td class=" " colspan="4">75998</td>
-                                            <td class="" colspan="4">35491</td></tr>
-                                        <tr><td class=" " colspan="4">08039</td>
-                                            <td class=" " colspan="4">08401</td>
-                                            <td class="" colspan="4">03436</td>
+                                            <td rowspan="2">Giải Ba</td>
+                                            <td colspan="4">83906</td>
+                                            <td colspan="4">75998</td>
+                                            <td colspan="4">35491</td>
                                         </tr>
                                         <tr>
-                                            <td class="  "><h3>Giải Tư</h3></td>
-                                            <td class=" " colspan="3">2772</td>
-                                            <td class=" " colspan="3">0537</td>
-                                            <td class=" " colspan="3">7225</td>
-                                            <td class="" colspan="3">4696</td>
+                                            <td colspan="4">08039</td>
+                                            <td colspan="4">08401</td>
+                                            <td colspan="4">03436</td>
                                         </tr>
                                         <tr>
-                                            <td class="  " rowspan="2"><h3>Giải Năm</h3></td>
-                                            <td class=" " colspan="4">6786</td>
-                                            <td class=" " colspan="4">7671</td>
-                                            <td class="" colspan="4">3455</td></tr>
-                                        <tr><td class=" " colspan="4">4982</td>
-                                            <td class=" " colspan="4">1960</td>
-                                            <td class="" colspan="4">7282</td>
+                                            <td >Giải Tư</td>
+                                            <td colspan="3">2772</td>
+                                            <td colspan="3">0537</td>
+                                            <td colspan="3">7225</td>
+                                            <td colspan="3">4696</td>
                                         </tr>
                                         <tr>
-                                            <td class="  "><h3>Giải Sáu</h3></td>
-                                            <td class=" " colspan="4">285</td>
-                                            <td class=" " colspan="4">281</td>
-                                            <td class="" colspan="4">951</td>
+                                            <td rowspan="2">Giải Năm</td>
+                                            <td colspan="4">6786</td>
+                                            <td colspan="4">7671</td>
+                                            <td colspan="4">3455</td></tr>
+                                        <tr><td colspan="4">4982</td>
+                                            <td colspan="4">1960</td>
+                                            <td colspan="4">7282</td>
                                         </tr>
                                         <tr>
-                                            <td class="  "><h3>Giải Bảy</h3></td>
-                                            <td class=" " colspan="3">15</td>
-                                            <td class=" " colspan="3">28</td>
-                                            <td class=" " colspan="3">49</td>
-                                            <td class="" colspan="3">26</td>
+                                            <td >Giải Sáu</td>
+                                            <td colspan="4">285</td>
+                                            <td colspan="4">281</td>
+                                            <td colspan="4">951</td>
                                         </tr>
-                                        <!--
                                         <tr>
-                                              <th class=" " colspan="13">Nhận KQXS <span class="sred">Thủ Đô</span> : Soạn <span class="sred">KQTD</span> gửi <span class="sred">8185</span></th>
-                                        </tr>-->
+                                            <td >Giải Bảy</td>
+                                            <td colspan="3">15</td>
+                                            <td colspan="3">28</td>
+                                            <td colspan="3">49</td>
+                                            <td colspan="3">26</td>
+                                        </tr>
                                         </tbody>
                                     </table>
                                 </div>
-                                <div class="row" style="background: black">QC</div>
+                                <div class="row ad-box"></div>
                                 <div class="row">
-                                    <table border="0" cellspacing="0" cellpadding="0" style="width: 100%">
+                                    <table class="table table-dered resultFull table-resizable-text">
                                         <thead>
                                         <tr>
-                                            <th class="bor f1" colspan="9"><h2><span class="sred">LôTô trực tiếp</span></h2></th>
+                                            <th class="bor f1" colspan="9"><span class="sred">LôTô trực tiếp</span></th>
                                         </tr>
                                         </thead>
                                         <tbody>
@@ -93,14 +90,14 @@
                                         </tbody>
                                     </table>
                                 </div>
-                                <div class="row" style="background: black">QC</div>
+                                <div class="row ad-box"></div>
                                 <div class="row">
                                     <div class="col-sm-6" style="padding: 0px">
-                                        <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                        <table class="table table-dered resultFull table-resizable-text">
                                             <thead>
                                             <tr>
-                                                <th class="bol f1 tt1"><h2>Đầu</h2></th>
-                                                <th class="bor f1 tt2"><h2>LôTô</h2></th>
+                                                <th class="bol f1 tt1">Đầu</th>
+                                                <th class="bor f1 tt2">LôTô</th>
                                             </tr>
                                             </thead>
                                             <tbody>
@@ -148,11 +145,11 @@
                                         </table>
                                     </div>
                                     <div class="col-sm-6" style="padding: 0px">
-                                        <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
+                                        <table class="table table-dered resultFull table-resizable-text">
                                             <thead>
                                             <tr>
-                                                <th class="bol f1 tt1"><h2>Đít</h2></th>
-                                                <th class="bor f1 tt2"><h2>LôTô</h2></th>
+                                                <th class="bol f1 tt1">Đít</th>
+                                                <th class="bor f1 tt2">LôTô</th>
                                             </tr>
                                             </thead>
                                             <tbody>
@@ -201,15 +198,16 @@
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-3 container" style="background: black">QC</div>
+                            <div class="col-sm-3 container ad-box"></div>
                         </div>
-                        <div class="row" style="background: black">QC</div>
+                        <div class="row ad-box"></div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
 
+    <!-- Dien toan 123-->
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h1 class="panel-title"><a href="/xsmb">XỔ SỐ ĐIỆN TOÁN 123</a></h1>
@@ -226,7 +224,7 @@
                                     <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
                                         <thead>
                                         <tr>
-                                            <th class="bor f2" colspan="3"><h2>Mở thưởng thứ tư ngày 06/01/2016</h2></th>
+                                            <th class="bor f2" colspan="3">Mở thưởng thứ tư ngày 06/01/2016</th>
                                         </tr>
                                         </thead>
                                         <tbody>
@@ -243,6 +241,7 @@
         </div>
     </div>
 
+    <!-- Than tai-->
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h1 class="panel-title"><a href="/xsmb">XỔ SỐ THẦN TÀI </a></h1>
@@ -259,7 +258,7 @@
                                     <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
                                         <thead>
                                         <tr>
-                                            <th class="bor f2" colspan="1"><h2>Mở thưởng thứ tư ngày 06/01/2016</h2></th>
+                                            <th class="bor f2" colspan="1">Mở thưởng thứ tư ngày 06/01/2016</th>
                                         </tr>
                                         </thead>
                                         <tbody>
