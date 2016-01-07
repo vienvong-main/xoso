@@ -1,10 +1,9 @@
 <div class="container" ng-controller="todayCtrl" ng-init="init()">
-    <!-- Mien Bac -->
+    <!-- XỔ SỐ THỦ ĐÔ -->
     <div class="panel panel-primary">
         <div class="panel-heading">
             <h1 class="panel-title"><a href="/xsmb">XỔ SỐ THỦ ĐÔ</a></h1>
         </div>
-
 
         <div id="mb-result">
             <div class="tableResult">
@@ -96,7 +95,7 @@
                                 </div>
                                 <div class="row" style="background: black">QC</div>
                                 <div class="row">
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-6" style="padding: 0px">
                                         <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
                                             <thead>
                                             <tr>
@@ -148,7 +147,7 @@
                                             </tbody>
                                         </table>
                                     </div>
-                                    <div class="col-sm-6">
+                                    <div class="col-sm-6" style="padding: 0px">
                                         <table border="0" cellspacing="0" cellpadding="0" class="bot" style="width: 100%">
                                             <thead>
                                             <tr>
@@ -209,6 +208,12 @@
                 </div>
             </div>
 
+        </div>
+    </div>
+
+    <div class="panel panel-primary">
+        <div class="panel-heading">
+            <h1 class="panel-title"><a href="/xsmb">XỔ SỐ ĐIỆN TOÁN 123</a></h1>
         </div>
     </div>
 
