@@ -96,7 +96,7 @@ class Mongo_query_builder extends CI_DB {
         // Save the query for debugging
         if ($this->save_queries === TRUE)
         {
-            $this->queries[] = $this->get_compiled_select();
+            $this->queries[] = $this->get_compiled_select($table);
         }else {
             $this->_reset_select();
         }
@@ -131,7 +131,6 @@ class Mongo_query_builder extends CI_DB {
         }
 
         if(!empty($this->qb_groupby)) {
-
             array_push($select, $this->qb_groupby);
 
         }else {
@@ -415,7 +414,12 @@ class Mongo_query_builder extends CI_DB {
         foreach($key as $wh=>$val) {
             $compile = $this->_compile_where_comparison($wh, $val);
 
-            $match[$compile['key']] = $compile['value'];
+            if(!empty($match[$compile['key']]) && is_array($match[$compile['key']])) {
+                $match[$compile['key']] = array_merge($match[$compile['key']], $compile['value']);
+            }else {
+                $match[$compile['key']] = $compile['value'];
+            }
+            
         }
 
         $this->_build_where_condition($qb_key,$match, $type);
@@ -647,6 +651,22 @@ class Mongo_query_builder extends CI_DB {
         // set select query to global parameter
         $this->qb_select = $select_query;
 
+        return $this;
+    }
+
+    // --------------------------------------------------------------------
+
+    /**
+     * DISTINCT
+     *
+     * Sets a flag which tells the query string compiler to add DISTINCT
+     *
+     * @param   bool    $val
+     * @return  CI_DB_query_builder
+     */
+    public function distinct($val = TRUE)
+    {
+        $this->qb_distinct = is_bool($val) ? $val : TRUE;
         return $this;
     }
 
@@ -948,7 +968,7 @@ class Mongo_query_builder extends CI_DB {
 
     public function select_max($select = '', $alias = '')
     {
-        $this->_max_min_avg_sum($select, $alias, 'MAX');
+        return $this->_max_min_avg_sum($select, $alias, 'MAX');
     }
 
     // --------------------------------------------------------------------

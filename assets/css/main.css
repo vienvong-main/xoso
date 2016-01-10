@@ -402,3 +402,65 @@ table.subLoto th {
 /*font-weight: bolder;*/
 /*background-color: #ffdb99;*/
 /*}*/
+
+#statistic-page {
+    float: left;
+    /*width: 100%;*/
+    border: 1px #ccc solid;
+    padding: 12px;
+    margin-bottom: 24px;
+}
+
+#statistic-page div {
+    margin: 0;
+    padding: 0;
+}
+
+#statistic-page div.container-fluid {
+    margin-bottom: 12px;
+}
+
+#statistic-page #statistic-header {
+    margin: -12px -13px;
+    margin-bottom: 20px;
+    padding: 0px 12px;
+    background-color: #d5edf8;
+    /*background-image: linear-gradient(to bottom,#337ab7 0,#2e6da4 100%);*/
+}
+
+#statistic-header h3 {
+    margin-top: 10px
+}
+
+.table {
+    float: left;
+    display: block;
+    border: 1px #ccc solid;
+}
+
+.table div {
+    float: left;
+    display: block;
+}
+
+.table-header, .table-body {
+    width: 100%;
+}
+
+.table-row {
+    width: 100%;
+    display: block;
+    border-top: 1px #ddd solid;
+}
+
+.table-col {
+    margin: 0;
+    padding: 0;
+}
+
+.table-cell {
+    border-left: 1px #ddd solid;
+    padding: 6px 12px;
+    text-align: center;
+    width: 105px;
+}

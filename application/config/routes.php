@@ -55,6 +55,8 @@ $route['hom-nay'] = 'today';
 
 $route['sokq'] = 'result';
 
+$route['thong-ke'] = 'statistic';
+
 $route['ket-qua-bong-da'] = 'score';
 $route['ket-qua-bong-da/(:any)'] = 'score/index/$1';
 

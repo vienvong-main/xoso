@@ -41,7 +41,7 @@
                     </li>
 
                     <li>
-                        <a href="/tien-ich/thong-ke">Thống Kê</a>
+                        <a href="/thong-ke">Thống Kê</a>
                     </li>
 
                     <li class="<?php if($this->uri->segment(1) == "ket-qua-bong-da") echo "active";?>">

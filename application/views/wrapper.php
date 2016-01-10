@@ -8,7 +8,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
     <link rel="stylesheet" href="/assets/css/bootstrap-theme.min.css"/>
     <link rel="stylesheet" href="/assets/css/bootstrap-datepicker.standalone.min.css"/>
     <link rel="stylesheet" href="/assets/css/main.css"/>
-    <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=vietnamese,latin,latin-ext">
+    <!-- <link type="text/css" rel="stylesheet" href="http://fonts.googleapis.com/css?family=Roboto+Condensed:400,700&subset=vietnamese,latin,latin-ext"> -->
     <title>Xổ số</title>
 </head>
 
@@ -23,7 +23,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
         <img src="/assets/img/jumptop.png" alt="Back to Top"/>
     </a>
 
-    <?php $this->load->view('templates/' . $content_view);?>
+    <?php $this->load->view('templates/' . $content_view, (!empty($content)?$content:null));?>
 
     <?php $this->load->view('footer');?>
 
