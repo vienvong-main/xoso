@@ -10,6 +10,6 @@ class Result extends CI_Controller {
     }
 
     public function search(){
-        var_dump($this->input->post('total'));
+        var_dump($_POST);
     }
 }

@@ -35,10 +35,10 @@ xosoApp.controller('resultCtrl', function($scope, $filter, $http) {
         if(errors.length > 0){
             alert(errors);
         }else{
-
             $http({
                 method: 'POST',
                 url: '/result/search',
+                headers: {'Content-Type': 'application/x-www-form-urlencoded'},
                 data: {
                     total: $scope.total,
                     date: $scope.date,
